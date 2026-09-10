@@ -17,6 +17,6 @@ The course emphasizes reproducible analysis, spatial ecological reasoning, and p
 
 - [Syllabus](syllabus.md): course expectations, grading skeleton, and policies.
 - [Schedule](schedule/index.md): 10-week course outline.
-- [Assignments](assignments.md): assignment templates and project milestones.
+- [Assignments](assignments/index.md): assignment templates and project milestones.
 - [Software and Data](software-data.md): computing environment, packages, and data sources.
 - [Resources](resources.md): references, tutorials, and useful documentation.

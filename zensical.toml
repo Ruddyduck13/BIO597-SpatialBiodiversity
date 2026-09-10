@@ -37,16 +37,18 @@ nav = [
   {"Assignments" = [
     {"Overview" = "assignments/index.md"},
     {"Week 1 (09/04) - Geopandas" = "assignments/Assignment-01-Geopandas.ipynb"},
-    {"Week 2 (09/11) - Shape files" = "assignments/Assignment-02-ShapeFiles.ipynb"},
+    {"Week 2 (09/11) - Occurrence data" = "assignments/Assignment-02-pygbif.ipynb"},
   ]},
   {"Software and Data" = "software-data.md"},
-  {"Resources" = "resources.md"}
+  {"Resources" = "resources.md"},
+  {"FAQ" = "faq.md"},
 ]
 
 [project.markdown_extensions]
 admonition = {}
 pymdownx.details = {}
 pymdownx.superfences = {}
+attr_list = {}
 
 [project.theme]
 variant = "modern"
