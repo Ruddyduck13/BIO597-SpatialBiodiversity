@@ -4,6 +4,8 @@ BIO 597 is a graduate course on spatial patterns of biodiversity and the data, m
 
 The course emphasizes reproducible analysis, spatial ecological reasoning, and practical use of environmental predictors such as remote sensing products, climate surfaces, and microclimate data. Students will work with occurrence records, rasters, vector data, biodiversity metrics, species distribution models, landscape connectivity, and spatially explicit uncertainty.
 
+## [UMaine CloudBank JupyterHub](https://maine.cloudbank.2i2c.cloud/)
+
 ## Course Focus
 
 - Describe biodiversity patterns across space and scale.

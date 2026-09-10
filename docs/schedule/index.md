@@ -1,15 +1,20 @@
+---
+hide:
+  - toc
+---
+
 # Schedule
 
 
 | Week | Topic | Main Python Tools | Exercises |
 | --- | --- | --- | --- |
 | [Week 1 (09/04)](week-01.md) | Spatial thinking in biodiversity science | NumPy, pandas, GeoPandas, matplotlib | Map a biodiversity dataset |
-| [Week 2 (09/11)](week-02.md) | Coordinate systems and spatial geometry | GeoPandas, pyproj, Shapely | Reproject data and measure distances |
-| [Week 3 (09/18)](week-03.md) | Vector spatial analysis | GeoPandas, Shapely | Buffers, intersections, spatial joins |
-| [Week 4 (09/25)](week-04.md) | Biodiversity data acquisition and cleaning | pandas, GeoPandas, pygbif, requests | Download and clean GBIF observations |
-| [Week 5 (10/02)](week-05.md) | Raster data and environmental covariates | rasterio, rioxarray, xarray, NumPy | Extract climate, elevation, and land cover |
-| [Week 6 (10/09)](week-06.md) | Spatial sampling and sampling bias | NumPy, GeoPandas, scikit-learn, scipy | Compare raw, thinned, and stratified samples |
-| [Week 7 (10/16)](week-07.md) | Measuring spatial biodiversity patterns | pandas, NumPy, GeoPandas, scipy | Map richness, diversity, endemism, and rarity |
+| [Week 2 (09/11)](week-02.md) | Biodiversity data acquisition | GeoPandas, pygbif | Access and download occurrence data using the GBIF API |
+| [Week 3 (09/18)](week-03.md) | Biodiversity data cleaning | GeoPandas, pygbif | Analysing and cleaning GBIF observations |
+| [Week 4 (09/25)](week-04.md) | Raster data and environmental covariates | rasterio, rioxarray, xarray, NumPy | Extract climate, elevation, and land cover |
+| [Week 5 (10/02)](week-05.md) | Species distribution modeling (Random Forest) | scikit-learn, rasterio, pandas | Build a first SDM from scratch w/ ML |
+| [Week 6 (10/09)](week-06.md) | Exploring SDM software | | Running 'production grade' SDMs |
+| [Week 7 (10/16)](week-07.md) | SDM predictions in space and time | | Projecting a fitted SDM to future climate conditions |
 | [Week 8 (10/23)](week-08.md) | Spatial autocorrelation | libpysal, esda, GeoPandas | Calculate global and local Moran's I |
 | [Week 9 (10/30)](week-09.md) | Species distribution modeling | scikit-learn, rasterio, pandas | Build and compare distribution models |
 | [Week 10 (11/06)](week-10.md) | Spatial interpolation and prediction | scipy, scikit-learn, optionally gstools | Predict an environmental or ecological surface |
@@ -20,6 +25,13 @@
 | [Week 15 (12/18)](week-15.md) | Synthesis: biodiversity under environmental change | Full stack | Final project presentations |
 
 Each week page provides a template for learning goals, readings, lab activities, and deliverables.
+
+### Additional topics to cover eventually
+
+Coordinate systems and spatial geometry | GeoPandas, pyproj, Shapely | Reproject data and measure distances
+Vector spatial analysis | GeoPandas, Shapely | Buffers, intersections, spatial joins |
+Spatial sampling and sampling bias | NumPy, GeoPandas, scikit-learn, scipy | Compare raw, thinned, and stratified samples |
+Measuring spatial biodiversity patterns | pandas, NumPy, GeoPandas, scipy | Map richness, diversity, endemism, and rarity |
 
 ## Weekly Topic Outline
 

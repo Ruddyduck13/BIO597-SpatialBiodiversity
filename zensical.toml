@@ -13,7 +13,7 @@ nav = [
   {"Schedule" = [
     {"Overview" = "schedule/index.md"},
     {"Week 1 (09/04) - Intro & Geopandas" = "schedule/week-01.md"},
-    {"Week 2 (09/11)" = "schedule/week-02.md"},
+    {"Week 2 (09/11) - Occurrence data" = "schedule/week-02.md"},
     {"Week 3 (09/18)" = "schedule/week-03.md"},
     {"Week 4 (09/25)" = "schedule/week-04.md"},
     {"Week 5 (10/02)" = "schedule/week-05.md"},
@@ -33,6 +33,7 @@ nav = [
         {"Git Setup" = "labs/lab-01-GitSetup.md"},
         {"Geopandas Intro" = "labs/Lab01-IntroPython-Geopandas.ipynb"},
     ]},
+    {"Week 2 (09/11) - Occurrence data" = "labs/Lab02-pygbif.ipynb"},
   ]},
   {"Assignments" = [
     {"Overview" = "assignments/index.md"},
