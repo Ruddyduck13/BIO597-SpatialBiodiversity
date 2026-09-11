@@ -66,3 +66,10 @@ Complete and submit these two assignment:
 - `docs/assignments/Assignment-02-PythonCollections.ipynb`
 - `docs/assignments/Assignment-02-pygbif.ipynb`
 
+**Paper discussion leader next week:** John! Please select a paper for
+the group to discuss before Sunday 09/13 6pm and send it around to the
+class email list: bio597-fall2026-group@maine.edu  
+
+Be prepared to lead a brief discussion on this paper next Friday 09/18,
+following the guidelines in the [Paper Discussion section on the 
+assignments page](../assignments/index.md).
