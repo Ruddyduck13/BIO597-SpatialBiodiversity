@@ -1,0 +1,4 @@
+evaluation,auc,weighted_auc
+"Training rows, all-data model",0.932,0.916
+"Checkerboard: train on train, evaluate test",0.791,0.755
+"Reversed: train on test, evaluate train",0.757,0.738
